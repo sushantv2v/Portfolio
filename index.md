@@ -11,10 +11,12 @@
 <div style="text-align: justify">
 <b>Menggunakan Bahasa C#</b> untuk project Blood Bank Management System
 <br> <br>
-
 <br>
 <center><img src="images/ss1.png"/></center>
+<br> Database Relation
 <br>
-
+<center><img src="images/Database.png"/></center>
+<br>
+    
 ---
 <center>© 2022 Carbone Giorgio. Powered by Jekyll and the Minimal Theme.</center>
