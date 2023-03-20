@@ -6,7 +6,7 @@
 ### Dekstop App for Blood Bank Management System
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kiki1289/Bank_Darah)
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kiki1289/Data-Analytics)
 
 <div style="text-align: justify">
 <b>Menggunakan Bahasa C#</b> untuk project Blood Bank Management System
@@ -25,7 +25,7 @@
 
 
 <div style="text-align: justify">
-<b>
+<br>
 
     
     
