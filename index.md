@@ -23,7 +23,7 @@
 ---
 ### CXR-ACGAN: Auxiliary Classifier GAN for Chest X-Ray Images Generation
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/CXR-ACGAN-chest-xray-generator-covid19-pneumonia)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kiki1289/Data-Analytics)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://www.slideshare.net/Giorgio469575/cxracgan-auxiliary-classifier-gan-for-conditional-generation-of-chest-xray-images-pneumonia-covid19-and-healthy-patients-255905299)
 
 <div style="text-align: justify">
