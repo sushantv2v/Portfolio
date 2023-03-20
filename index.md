@@ -13,4 +13,4 @@
 ---
   
     
-<center>© 2022 Carbone Giorgio. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 Rifki Amrulloh. Powered by Jekyll and the Minimal Theme.</center>
