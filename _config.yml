@@ -1,26 +1,20 @@
-title: <p align="center"> Rifki Amrulloh </p>
+title: <p align="center"> Sushant Verma </p>
 
-logo: "/images/foto1.png?raw=true"
+logo: "/images/sushant.webp?raw=true"
 
-description:
+description: |
   <p align="center">
-  Purwokerto, Indonesia
-  <br> (+62) 82314511291
-  <br> kikiamrulloh23@gmail.com
-  <br> <a href="https://www.linkedin.com/in/RifkiAmrulloh/">LinkedIn</a> |
-  <a href="https://github.com/kiki1289">GitHub</a>
+  Bengaluru, India
+  <br> (+91) 8765365100
+  <br> <a href="mailto:sushantv2v@live.com">sushantv2v@live.com</a>
+  <br> <a href="https://www.linkedin.com/in/sushant-verma-248b16101/">LinkedIn</a> |
+  <a href="https://github.com/sushantv2v">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursuing S1 degree in Ilmu Komputer at Universitas Amikom Purwokerto
+  Seasoned Data Scientist with over 6 years of experience specializing in leveraging Machine Learning algorithms to solve complex business challenges.
   <br><br>
-  where I’m receiving solid training in all the major fields of Data Science, like Statistics, Computer Science, Data Engineering, Machine Learning and more.
-  <br><br>
+  Adept in multiple industries including Multimedia, E-commerce, Hyperlocal, and Digital Analytics Services.
   </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
-
-# I am particularly drawn to digital signal and image processing and analysis, as well as the latest ML topics, such as Computer Vision, NLP and Generative Models.
-#and in particular earning a bachelor's degree in Chemical Sciences and Technologies at University of Milano-Bicocca, which program included courses in mathematics, physics and chemistry (inorganic, organic, physical and analytical), 
-#Although I have an interest in the discipline of data science in its entirety,
