@@ -1,6 +1,6 @@
 ## Profile
 
-Seasoned Data Scientist with over 5 years of experience specializing in leveraging Machine Learning algorithms to solve complex business challenges. Adept in multiple industries including Multimedia, E-commerce, Hyperlocal, and Digital Analytics Services. Proven track record of building strong, data-driven partnerships with stakeholders to facilitate informed decision-making.
+Seasoned Data Scientist with over 6 years of experience specializing in leveraging Machine Learning algorithms to solve complex business challenges. Adept in multiple industries including Multimedia, E-commerce, Hyperlocal, and Digital Analytics Services. Proven track record of building strong, data-driven partnerships with stakeholders to facilitate informed decision-making.
 
 ## Skills
 
