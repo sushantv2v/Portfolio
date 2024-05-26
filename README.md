@@ -5,10 +5,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Check out the minimal portfolio at https://giocoal.github.io/minimal-portfolio/
+Check out the minimal portfolio at https://sushant.github.io/portfolio/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/giocoal/minimal-portfolio.svg?style=for-the-badge
 [contributors-url]: https://github.com/giocoal/minimal-portfolio/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/giocoal/minimal-portfolio.svg?style=for-the-badge
