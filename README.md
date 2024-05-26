@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Check out the minimal portfolio at https://sushant.github.io/portfolio/
+Check out the minimal portfolio at https://sushantv2v.github.io/Portfolio/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
